@@ -2,7 +2,7 @@ var a=prompt("Enter UserName");
  var b=prompt("Enter password");
   	if(a== "april" && b=="casinao")
   	{
-  	    window.location.href="April.php";
+  	    window.location.href="April.html";
   	}
   	else
   	{
